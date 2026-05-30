@@ -1,13 +1,13 @@
-# File: <initials.py>
-# Description: <This program prints the initials of my name TBOY in large block letters made up of each letter's own character, followed by a large period made of asterisks.">
+# File: initials.py
+# Description: This program prints the initials of my name TBOY in large block letters made up of each letter's own character, followed by a large period made of asterisks."
 # Assignment Number: 2
 #
-# Name: <TRACY BOATENG OHEMAA YAA>
-# STUDENT ID:  <2425402105>
-# Email: <2425402105@live.gctu.edu.gh>
-# Grader: <AUGUSTUS BUCKMAN>
+# Name: TRACY BOATENG OHEMAA YAA
+# STUDENT ID: 2425402105
+# Email: 2425402105@live.gctu.edu.gh
+# Grader: AUGUSTUS BUCKMAN
 #
-# On my honor, <TRACY>, this programming assignment is my own work
+# On my honor,TRACY, this programming assignment is my own work
 # and I have not provided this code to any other student.
 
 
